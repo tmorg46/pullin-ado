@@ -1,9 +1,18 @@
 # pullin-ado
-A command that replicates **merge m:1 _varlist_ using _filename_, keep(1 3) nogen** in fewer characters.
+A command that replicates a many-to-one merge with keep(1 3) and nogen options in fewer characters.
 
-pullin _varlist_ using _filename_
+---------------------------------
 
-available to install from the SSC!
-ssc install pullin
+The following commands are therefore equivalent:
+
+**merge m:1** _varlist_ **using** _filename_**, keep(1 3) nogen**
+
+**pullin** _varlist_ **using** _filename_
+
+
+---------------------------------
+
+available to install from the SSC! via
+**ssc install pullin**
 
 honestly, I just got tired of typing m:1 , keep(1 3) nogen
