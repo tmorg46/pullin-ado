@@ -15,4 +15,4 @@ The following commands are therefore equivalent:
 available to install from the SSC! via
 **ssc install pullin**
 
-honestly, I just got tired of typing m:1 , keep(1 3) nogen
+honestly, I just got tired of typing m:1 , keep(1 3) nogen for every single merge I ran in the Record Linking Lab, so here's this
